@@ -1,0 +1,45 @@
+h1
+{
+color:royalblue;
+font-size: larger ;
+font-style: italic
+} 
+h2
+{
+color: red;
+font-size: large ;
+font-style: italic
+}
+*{border: solid;border-color: chocolate;}
+*{background-color: black}
+.header
+{
+background-color: goldenrod ;
+display: flex ; 
+justify-content: space-between;
+font-size: larger ;
+font-style: italic
+}
+.links
+{
+background-color: goldenrod;
+display: flex;
+justify-content: right;
+align-items: center;
+font-size: larger ;
+font-style: italic
+}
+p
+{
+color: aquamarine;
+font-size: large ;
+font-style: italic;
+background-color: goldenrod;
+}
+.extra
+{
+color: aquamarine;
+font-size: large ;
+font-style: italic;
+background-color: goldenrod;
+}
